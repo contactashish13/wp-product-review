@@ -1,5 +1,5 @@
 === WP Product Review Lite ===
-Contributors: codeinwp,themeisle,marius2012,marius_codeinwp,hardeepasrani,contactashish13,Madalin_ThemeIsle
+Contributors: codeinwp,themeisle,marius2012,marius_codeinwp,hardeepasrani,rozroz,Madalin_ThemeIsle
 Tags:  review, rating, posts, widget, review blogger, review blogging, affiliate, product reviews,plugin,  google rating, product review, rating, review, star rating, user rating, wp rating, wp review,  google, hreview,rich snippets,seo,snippet
 Author URI: http://themeisle.com
 Requires at least: 3.5
