@@ -34,6 +34,9 @@ If you wanna learn more about the <a href="http://www.codeinwp.com/blog/fastest-
 - Add specific user review options to wordpress comments
 - Add rich snippet ( schema ) to your posts
 
+**Please note that WP Product Review PRO has been retired and is no longer available**
+
+
 == Changelog ==
 = 3.7.6 - 2020-05-14  = 
 
